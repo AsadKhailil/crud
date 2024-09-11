@@ -37,6 +37,7 @@
                     admin_email = '$email_address',
                     admin_pass = '$password',
                     joined_date = '$current_date'
+                    
                 ");
                 $success_msg = "<div class='alert alert-success'><b>Awesome!</b> Your account has been created!</div>";
             }else{
